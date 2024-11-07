@@ -18,7 +18,8 @@ P.A.T.R.O in Mars é um jogo shooter single-player desenvolvido em uma semana, o
 
 
 > # 💻 [VIEW THE PROJECT](https://xamacardoso.itch.io/patro-in-mars)
-> 
+> ![Untitled](https://github.com/user-attachments/assets/9b078dd9-1c61-486d-b962-c1e887c603d1)
+
 
 > # 🔗 CLONE DO PROJETO
 > ```bash
